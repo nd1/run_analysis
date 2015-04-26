@@ -1,13 +1,13 @@
 
-CodeBook.md
+##CodeBook.md
 
 This is the CodeBook file for run_analysis.md. Please see README.md for a description of the data source and information on the data used from the data source.
 
 run_analysis.md creates a tidy data set from the data source. The tidy data set is created from a data frame with 4 variables.
 
-___
-Code Book (description of the variables)
-___
+
+#Code Book (description of the variables)
+
 
 subject : 
         Identifies the subject who performed the activity for each sample. Its range is from 1                                                 to 30 found in the files 'train/subject_train.txt' and 'test/subject_test.txt'
@@ -64,14 +64,14 @@ features:
 value   : 
         The value of a given feature for a subject performing a specified activity. The computation of this value is described more fully above in "features".
         
-___
-Study Design
-___
+
+##Study Design
+
 Please see the README.md file for information on the study source in order to obtain background information on the study design.
 
-___
-Summary
-___
+
+#Summary
+
 
 The following section documents the choices made in the run_analysis.R script.
 
