@@ -1,6 +1,6 @@
 
 #README.md
-
+This repo was created for a Coursera course.
 
 The script run_analysis.R was created to work with Human Activity Recognition Using Smartphones Dataset Version 1.0 [1]. The script creates a tidy data set that is then used for analysis.
 
